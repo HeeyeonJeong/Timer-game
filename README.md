@@ -1,5 +1,5 @@
 # Timer_game
-- 10초 설정 timer 입니다.
+- 10초 설정 timer
 ## Stack
 - JavaScript
 ## Screenshot
